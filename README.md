@@ -29,4 +29,4 @@ Product APIs
 Order APIs
 
 # 6.License
-Apache 2.0
+Apache-2.0
