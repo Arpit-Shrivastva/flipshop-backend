@@ -1,6 +1,5 @@
 package com.example.FlipShop.Controllers;
 
-
 import com.example.FlipShop.Models.User;
 import com.example.FlipShop.Security.SecurityTokenGenerator;
 import com.example.FlipShop.Services.UserService;
