@@ -1,6 +1,5 @@
 package com.example.FlipShop.Controllers;
 
-
 import com.example.FlipShop.Models.Products;
 import com.example.FlipShop.Services.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
