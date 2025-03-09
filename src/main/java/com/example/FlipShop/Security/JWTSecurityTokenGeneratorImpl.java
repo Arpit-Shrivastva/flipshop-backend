@@ -17,6 +17,7 @@ public class JWTSecurityTokenGeneratorImpl implements SecurityTokenGenerator {
         obj.put("USER", user.getEmail());
         return generateToken(obj, user.getEmail());
     }
+    
 
     public String generateToken(Map<String, Object> claims, String subject) {
         String jwtToken = Jwts.builder()
